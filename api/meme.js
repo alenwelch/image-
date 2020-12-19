@@ -1,4 +1,4 @@
-const data = [
+data = [
     {
       "img":
         "https://raw.githubusercontent.com/alenwelch/image-/main/memes/IMAGE_2020-12-19_03_33_06_j8fdmb.jpg",
